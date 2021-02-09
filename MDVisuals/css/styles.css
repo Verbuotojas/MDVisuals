@@ -10228,7 +10228,46 @@ header.masthead .masthead-heading {
 }
 .portfolio-modal .modal-content img {
   margin-bottom: 2rem;
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+.lightbox img{
+    
+     height: 25em;
+     object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .portfolio-modal .close-modal {
   position: absolute;
   top: 1.5rem;
