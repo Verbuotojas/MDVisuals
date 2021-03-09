@@ -10680,7 +10680,11 @@ body {
 
 
 
-
+.disco{
+  
+  height: 5em;
+  object-fit: cover;
+}
 
 
 
